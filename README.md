@@ -13,8 +13,8 @@
 To clone the repository, use the following commands:
 
 ```sh
-git clone 
-cd 
+git clone git@github.com:badaldesai/data-sentinel-etl-test.git
+cd data-sentinel-etl-test
 npm install
 ```
 
